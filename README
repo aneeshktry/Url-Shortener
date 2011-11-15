@@ -1,0 +1,5 @@
+Url-Shortener is a simple application that provide short url for given larg url. 
+It will be helpfull in situations where the character length is fixed.
+We can give a url in the text box.
+After clicking the submit button, the system will provide a short url corresponding to the given url.
+We can use the short url instead of the original one.
